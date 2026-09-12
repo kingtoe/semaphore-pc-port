@@ -1,0 +1,19 @@
+# 编译产物
+*.o
+*.exe
+*.map
+*.bin
+
+# 可执行文件
+semaphore
+semaphoredbg
+
+# 操作日志（不推送）
+OPERATION_LOG.md
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
