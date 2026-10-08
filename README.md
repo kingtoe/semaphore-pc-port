@@ -1,4 +1,4 @@
-# Semaphore PC Port
+# Semaphore PC Port —— 一个简单的嵌入式 Linux 程序示例
 
 POSIX 信号量（semaphore）生产者-消费者示例的 PC 移植版。
 
